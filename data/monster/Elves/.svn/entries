@@ -1,0 +1,64 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Elves
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+elf scout.xml
+file
+
+
+
+
+2008-01-24T23:34:02.140625Z
+df40d4d189d6ebc2039ae2b6768585a8
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+elf.xml
+file
+
+
+
+
+2008-01-24T23:34:02.156250Z
+3f4ee23783c87730e01ac5053635efe6
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+elf arcanist.xml
+file
+
+
+
+
+2008-01-24T23:34:02.171875Z
+8d2510fdf1bbfb2d8df18c04213ddad3
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

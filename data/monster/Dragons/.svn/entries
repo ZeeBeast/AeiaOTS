@@ -1,0 +1,76 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Dragons
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+hydra.xml
+file
+
+
+
+
+2008-01-24T23:34:04.515625Z
+5bbc88dbb23e3a7e401e2ed44b2e9353
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+frost dragon.xml
+file
+
+
+
+
+2008-01-24T23:34:04.531250Z
+843e291afa4b7739ce0b249749f3fcf4
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+dragon.xml
+file
+
+
+
+
+2008-01-24T23:34:04.546875Z
+95addd497d0fac208b59572690130e00
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+dragon lord.xml
+file
+
+
+
+
+2008-01-24T23:34:04.562500Z
+2f64d11661011e047a60c0a08e6e49e5
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

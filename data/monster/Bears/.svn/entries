@@ -1,0 +1,64 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Bears
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+panda.xml
+file
+
+
+
+
+2008-01-24T23:33:57.484375Z
+e524749e4eb0cf54dd7f9e5f94c12ff6
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+polar bear.xml
+file
+
+
+
+
+2008-01-24T23:33:57.500000Z
+684feb57f2539167f617ef28b396fdb4
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+bear.xml
+file
+
+
+
+
+2008-01-24T23:33:57.515625Z
+12be5e777850ce1aad707528a33a7c71
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

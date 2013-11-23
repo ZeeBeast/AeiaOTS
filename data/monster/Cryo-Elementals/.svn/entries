@@ -1,0 +1,76 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Cryo-Elementals
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+frost giant.xml
+file
+
+
+
+
+2008-01-24T23:33:58.421875Z
+ee1e7a78e06d18ca82b689aa3c3aa584
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+ice golem.xml
+file
+
+
+
+
+2008-01-24T23:33:58.437500Z
+a2bad6bbe527b04db78f1522f4747972
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+yeti.xml
+file
+
+
+
+
+2008-01-24T23:33:58.453125Z
+35cbc446918d94931013390a5eac9b99
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+frost giantess.xml
+file
+
+
+
+
+2008-01-24T23:33:58.453125Z
+c47edc23ac8fbd3786caac9638b983b0
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

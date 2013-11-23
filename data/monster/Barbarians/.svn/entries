@@ -1,0 +1,76 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Barbarians
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+barbarian skullhunter.xml
+file
+
+
+
+
+2008-01-24T23:34:07.281250Z
+dc4dab2469120430739f3a59e65e4fe6
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+barbarian bloodwalker.xml
+file
+
+
+
+
+2008-01-24T23:34:07.281250Z
+d8e76012dad38b72d39cbd143ad1586e
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+barbarian headsplitter.xml
+file
+
+
+
+
+2008-01-24T23:34:07.296875Z
+cde8a8d3d4bfdc7014851e7dec8ae740
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+barbarian brutetamer.xml
+file
+
+
+
+
+2008-01-24T23:34:07.296875Z
+edc8dceda37274878b0ee83d94bccc0f
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

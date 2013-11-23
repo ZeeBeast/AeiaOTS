@@ -1,0 +1,136 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Orcs
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+orc leader.xml
+file
+
+
+
+
+2008-01-24T23:33:59.546875Z
+ce800526973fd562e184594ce828407b
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc.xml
+file
+
+
+
+
+2008-01-24T23:33:59.562500Z
+e3c00a9a469a6d40101da8f14d3ab337
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc berserker.xml
+file
+
+
+
+
+2008-01-24T23:33:59.562500Z
+6ff635f7d3dd58a199eb05e6789710a7
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc rider.xml
+file
+
+
+
+
+2008-01-24T23:33:59.609375Z
+122fd1ba96c7333ac1bd47ec0db50eca
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc warrior.xml
+file
+
+
+
+
+2008-01-24T23:33:59.640625Z
+8f2c8ad7a2037666efcf647ae5113984
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+goblin.xml
+file
+
+
+
+
+2008-01-24T23:33:59.640625Z
+032e337291681a3f1d5882a972388d63
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc spearman.xml
+file
+
+
+
+
+2008-01-24T23:33:59.656250Z
+f2b2e01ea4fcafceba0616fb3c49ff74
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc shaman.xml
+file
+
+
+
+
+2008-01-24T23:33:59.656250Z
+a8dffbaf90562d6899501e86957a5ae0
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+orc warlord.xml
+file
+
+
+
+
+2008-01-24T23:33:59.671875Z
+a1f1b189722aa43c3c49ba41c77531d6
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

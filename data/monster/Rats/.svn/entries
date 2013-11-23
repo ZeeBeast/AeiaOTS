@@ -1,0 +1,52 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Rats
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+cave rat.xml
+file
+
+
+
+
+2008-01-24T23:34:01.281250Z
+a2c324413cb309b89d87dcac30cabaf0
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+rat.xml
+file
+
+
+
+
+2008-01-24T23:34:01.281250Z
+08ba249ee905db3555b00e7686b43d8f
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

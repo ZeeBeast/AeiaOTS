@@ -1,0 +1,52 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Necromancers
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+priestess.xml
+file
+
+
+
+
+2008-01-24T23:34:02.312500Z
+99ea5a4c013244f67b8d5521d8b35bbd
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+necromancer.xml
+file
+
+
+
+
+2008-01-24T23:34:02.312500Z
+fdecb6f62493fde0eabffb61d4381d5b
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

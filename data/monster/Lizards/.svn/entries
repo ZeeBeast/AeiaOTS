@@ -1,0 +1,64 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Lizards
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+lizard sentinel.xml
+file
+
+
+
+
+2008-01-24T23:34:00.640625Z
+dd4c1086bbaafe3e68ecdea3668805d9
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+lizard snakecharmer.xml
+file
+
+
+
+
+2008-01-24T23:34:00.656250Z
+43c241bbc36bd96d52f50b8e5c0757ab
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+lizard templar.xml
+file
+
+
+
+
+2008-01-24T23:34:00.656250Z
+84c984d7d7de0e817261cac40bbb0c4c
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

@@ -1,0 +1,52 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Annelids
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+carrion worm.xml
+file
+
+
+
+
+2008-01-24T23:33:57.843750Z
+a72fab4c53d5f5eba009f5f31cdf51cb
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+rotworm.xml
+file
+
+
+
+
+2008-01-24T23:33:57.859375Z
+2b25331f22c780b3341e7d719914f705
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

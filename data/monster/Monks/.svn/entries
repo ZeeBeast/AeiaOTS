@@ -1,0 +1,52 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Monks
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+monk.xml
+file
+
+
+
+
+2008-01-24T23:33:55.296875Z
+7bad1e8ebf488260c3cdac58837a1f71
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+dark monk.xml
+file
+
+
+
+
+2008-01-24T23:33:55.296875Z
+8344fb3e0aea8fcaa33493f4c9ab976f
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

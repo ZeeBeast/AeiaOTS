@@ -1,0 +1,158 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/arena/scrapper
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-12-19T01:54:51.822066Z
+2816
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+the hag.xml
+file
+
+
+
+
+2008-01-24T23:33:50.953125Z
+04409b0e02de32a1571a876ca27e6d1b
+2007-11-12T00:03:25.323676Z
+2703
+piterb
+has-props
+
+avalanche.xml
+file
+
+
+
+
+2008-01-24T23:33:51.093750Z
+f0d8ce7bcfc90be6dc3eb21bfb1ca73b
+2007-12-12T14:32:30.919236Z
+2776
+piterb
+has-props
+
+spirit of water.xml
+file
+
+
+
+
+2008-01-24T23:33:51.234375Z
+0bb854d756fc5739918c2f0ed87e804c
+2007-12-19T01:54:51.822066Z
+2816
+piterb
+has-props
+
+spirit of earth.xml
+file
+
+
+
+
+2008-01-24T23:33:51.546875Z
+df0693918f59c89bbd8c0db6309c5052
+2007-10-27T03:00:50.236688Z
+2634
+otserv_nostra
+has-props
+
+slim.xml
+file
+
+
+
+
+2008-01-24T23:33:51.718750Z
+495685d8e72f70d4dddd4809938b7d92
+2007-12-19T01:54:51.822066Z
+2816
+piterb
+has-props
+
+spirit of fire.xml
+file
+
+
+
+
+2008-01-24T23:33:51.796875Z
+1674274213f4134fe1f2d9216f7aba32
+2007-10-27T03:00:50.236688Z
+2634
+otserv_nostra
+has-props
+
+grimgor guteater.xml
+file
+
+
+
+
+2008-01-24T23:33:51.968750Z
+616c801d854e874e04e3108612487540
+2007-12-09T11:35:17.460427Z
+2767
+otserv_nostra
+has-props
+
+kreebosh the exile.xml
+file
+
+
+
+
+2008-01-24T23:33:52.062500Z
+c12ca900c37f4e128fef5d204d8c7f78
+2007-11-07T18:56:43.111715Z
+2673
+piterb
+has-props
+
+drasilla.xml
+file
+
+
+
+
+2008-01-24T23:33:52.140625Z
+20f1368e7a4215e7056ed618a9adcf27
+2007-12-19T01:54:51.822066Z
+2816
+piterb
+has-props
+
+the dark dancer.xml
+file
+
+
+
+
+2008-01-24T23:33:52.250000Z
+319babe396ec5456eb6b7a2c0a669c0c
+2007-11-12T00:03:25.323676Z
+2703
+piterb
+has-props
+

@@ -1,0 +1,76 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Dwarves
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+dwarf.xml
+file
+
+
+
+
+2008-01-24T23:34:01.703125Z
+78cbf8a9690b46b31066cfb4c6edf312
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+dwarf geomancer.xml
+file
+
+
+
+
+2008-01-24T23:34:01.703125Z
+4f9d28afccd4635dd11829938da8126c
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+dwarf soldier.xml
+file
+
+
+
+
+2008-01-24T23:34:01.718750Z
+60c0973e88d4666beb78e013a699066f
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+dwarf guard.xml
+file
+
+
+
+
+2008-01-24T23:34:01.734375Z
+872307b1a191fb0bfb665b6ddc121441
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

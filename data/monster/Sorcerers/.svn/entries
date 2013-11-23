@@ -1,0 +1,64 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Sorcerers
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+warlock.xml
+file
+
+
+
+
+2008-01-24T23:34:08.625000Z
+1309b815570119794f2b5ef66dce238a
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+witch.xml
+file
+
+
+
+
+2008-01-24T23:34:08.640625Z
+481f70aa928b609693143ff5d367aba1
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+ice witch.xml
+file
+
+
+
+
+2008-01-24T23:34:08.656250Z
+1f6ac879a04c444fcb76dd9501732da1
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

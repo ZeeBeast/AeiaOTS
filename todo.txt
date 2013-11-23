@@ -1,0 +1,54 @@
+
+TRANSLATE  --done, just needs a check and some fixes here and there
+
+build a hunting guide -- This is almost done, I will do till lvl 200, let higher gyts tell me or let them find ut
+
+
+Rearange spells, and rebalance   --spells done
+get a script to allow players to loot chests with donor stuff after killing dom and skyar. --This is done, I used unique ids
+set shop and theme the acc --theme done, shop needs a tweak or 2, promo stiff reads now
+finalize donor stuff--almost done
+go over map to check for stuff, I'm doing this now.
+
+tweak starting items -- done
+
+redo tample(maybe)
+--might combine depo with temple and add a house in place of the market and replace the depo with a market--just need to tweak(freaking redo) depo a bit
+
+
+-check first items and capacity. they drop meat when they start they will start with 5 now lets see how that works
+
+-- fix the ingot conversion thing
+
+
+--tweak multipliers
+-- change atack speed
+--CONJURE RUNES NOT WORKING
+--check demon loot, they drop windows
+
+--BALANCE DONOR ITEMS
+
+--FIX MEDUSA CORPSE
+
+--fix eryn, wands are ::1
+
+
+FIX SCRIPT FOR DOM AND SKYLAR --done
+
+CHANGE FOOD ON FOOD STAND
+
+REMOVE RUNE THAT STARTS WITH THE PLARE --masive bug ith those runes,, need to fix asap
+
+--Look at skill cap
+
+--TWEAK CAPACITY
+--improve mana runes
+
+REOKACE ERYN HE DOES NOT SELL WANDS
+ADD CHARGES TO RUNES
+
+exevo gran mas flam  needs checking
+
+Add stuff for anihi 2421
+
+--WEBSITE IMPORTANT :: PEOPLE CAN LOG INTO 1/1 ACC MANAGER ON THE WEB

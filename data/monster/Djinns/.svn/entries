@@ -1,0 +1,76 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Djinns
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+green djinn.xml
+file
+
+
+
+
+2008-01-24T23:33:49.234375Z
+73455afdf01aadc97ed2a0daeadba6f7
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+blue djinn.xml
+file
+
+
+
+
+2008-01-24T23:33:49.296875Z
+13a73cde005d0672f3de24c3d8db5abe
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+efreet.xml
+file
+
+
+
+
+2008-01-24T23:33:49.468750Z
+afbe47155697ba675c89e846f1f09f6a
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+marid.xml
+file
+
+
+
+
+2008-01-24T23:33:49.609375Z
+de23761091916e674e1a3f9e0cdfe3b2
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

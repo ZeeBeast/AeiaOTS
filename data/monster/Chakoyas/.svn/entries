@@ -1,0 +1,64 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Chakoyas
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+chakoya toolshaper.xml
+file
+
+
+
+
+2008-01-24T23:34:06.968750Z
+6ee70bd79c2e6108b638f0d34b0b37b8
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+chakoya windcaller.xml
+file
+
+
+
+
+2008-01-24T23:34:06.968750Z
+cc11a78bd7fe0ee254a413ce1f02ef92
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+chakoya tribewarden.xml
+file
+
+
+
+
+2008-01-24T23:34:06.984375Z
+bc687a6134e59b3e69c114a27dc11efd
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

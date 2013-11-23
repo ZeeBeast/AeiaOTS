@@ -1,0 +1,88 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Reptiles
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+snake.xml
+file
+
+
+
+
+2008-01-24T23:33:55.500000Z
+692a7cbf8a65d1b54e9d9658ded187fd
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+crocodile.xml
+file
+
+
+
+
+2008-01-24T23:33:55.500000Z
+b2b306ad166e5af13d50ba9bd701e389
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+cobra.xml
+file
+
+
+
+
+2008-01-24T23:33:55.515625Z
+d4f4d7e9f5ba77510e1da1da90d68aea
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+serpent spawn.xml
+file
+
+
+
+
+2008-01-24T23:33:55.531250Z
+7ec1647da04eaa031e6a1eb7a1297adf
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+wyvern.xml
+file
+
+
+
+
+2008-01-24T23:33:55.531250Z
+5ea5e31894092eb30a0d0c3627d50b86
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+

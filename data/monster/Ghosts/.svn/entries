@@ -1,0 +1,88 @@
+8
+
+dir
+2942
+https://opentibia.svn.sourceforge.net/svnroot/opentibia/data/branches/data81/monster/Ghosts
+https://opentibia.svn.sourceforge.net/svnroot/opentibia
+
+
+
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c77455bc-2124-0410-8220-ac9e7aafbb94
+
+ghost.xml
+file
+
+
+
+
+2008-01-24T23:34:08.218750Z
+d7eb28c1d2a7cd3d5b9b43196da5a15a
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+spectre.xml
+file
+
+
+
+
+2008-01-24T23:34:08.234375Z
+51ea339b963fdba9b5b3fe8c65e7c283
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+pirate ghost.xml
+file
+
+
+
+
+2008-01-24T23:34:08.234375Z
+661bb2c45b7882890f89ae18b3c4281e
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+phantasm summon.xml
+file
+
+
+
+
+2008-01-24T23:34:08.250000Z
+0232e69f1af45a3ac62d4b5fa1a83420
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
+phantasm.xml
+file
+
+
+
+
+2008-01-24T23:34:08.265625Z
+7cb7ac5f04b5036206b05e47ea68f258
+2007-10-17T00:19:38.427878Z
+2600
+piterb
+
